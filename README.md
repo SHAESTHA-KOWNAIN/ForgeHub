@@ -1,6 +1,6 @@
-# DevCollab Lite
+# DevCollab
 
-DevCollab Lite is a full-stack developer collaboration app with a React frontend, an Express backend, PostgreSQL persistence, JWT auth, and bcrypt password hashing.
+DevCollab  is a full-stack developer collaboration app with a React frontend, an Express backend, PostgreSQL persistence, JWT auth, and bcrypt password hashing.
 
 ## Project Structure
 
